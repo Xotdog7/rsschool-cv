@@ -27,6 +27,6 @@ function removeEveryOther(arr) {
 
 ```
 ### Education: Al-Farabi Kazakh National University *2018 - 2022*
-### I can understand English, but speak bad.
+### English B2. I can understand, but speak...
 ---
 
