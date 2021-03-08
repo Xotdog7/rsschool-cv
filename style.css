@@ -34,3 +34,11 @@ body {
       position: absolute;
       right:10px;
     }
+    .logo
+    {
+      width: 250px;
+      height: 230px;
+    border-radius: 20px;
+      position: absolute;
+      right:40px;
+    }
